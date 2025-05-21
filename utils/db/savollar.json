@@ -1,0 +1,452 @@
+[
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "(5 + 3) * 2 nechiga teng?",
+      "ru": "Чему равно (5 + 3) * 2?",
+      "en": "What is (5 + 3) * 2?"
+    },
+    "options": [
+      "16",
+      "11",
+      "13",
+      "10"
+    ],
+    "answer": "16"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "144 ning ildizi qanday?",
+      "ru": "Каков квадратный корень из 144?",
+      "en": "What is the square root of 144?"
+    },
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "0.5 kasrni foizda ifodalang",,
+      "ru": "Выразите 0.5 в процентах",
+      "en": "Express 0.5 as percentage"
+    },
+    "options": [
+      "5%",
+      "50%",
+      "0.5%",
+      "500%"
+    ],
+    "answer": "50%"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "Teng yonli uchburchakning necha simmetriya o‘qi bor?",
+      "ru": "Сколько осей симметрии у равнобедренного треугольника?",
+      "en": "How many symmetry axes does an isosceles triangle have?"
+    },
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "1 kilometrda necha metr bor?",
+      "ru": "Сколько метров в 1 километре?",
+      "en": "How many meters in 1 kilometer?"
+    },
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "answer": "1000"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "3.5 + 2.5 nechiga teng?",
+      "ru": "Чему равно 3.5 + 2.5?",
+      "en": "What is 3.5 + 2.5?"
+    },
+    "options": [
+      "5",
+      "5.5",
+      "6",
+      "6.5"
+    ],
+    "answer": "6"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "Har birida 12 ta dona bo‘lgan 5 qutida jami nechta dona bor?",
+      "ru": "Сколько всего предметов в 5 коробках по 12 штук в каждой?",
+      "en": "How many items total in 5 boxes with 12 each?"
+    },
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer": "60"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "30 sonining 25% qanday?",
+      "ru": "Чему равен 25% от 30?",
+      "en": "What is 25% of 30?"
+    },
+    "options": [
+      "5",
+      "6.5",
+      "7.5",
+      "8"
+    ],
+    "answer": "7.5"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "x + 7 = 15 tenglamada x ning qiymati qanday?",
+      "ru": "Каково значение x в уравнении x + 7 = 15?",
+      "en": "What is x in equation x + 7 = 15?"
+    },
+    "options": [
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "category": "➕ Matematika",
+    "question": {
+      "uz": "1, 3, 5, 7, ... ketma-ketlikdagi keyingi son qanday?",
+      "ru": "Какое следующее число в последовательности 1, 3, 5, 7, ...?",
+      "en": "Next number in sequence 1, 3, 5, 7, ...?"
+    },
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "9"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Elektr tokining birligi qanday?",
+      "ru": "Какая единица измерения электрического тока?",
+      "en": "Unit of electric current?"
+    },
+    "options": [
+      "Volt",
+      "Amper",
+      "Om",
+      "Vatt"
+    ],
+    "answer": "Amper"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Qanday modda suvda eng yaxshi eriydi?",
+      "ru": "Какое вещество лучше растворяется в воде?",
+      "en": "Which substance dissolves best in water?"
+    },
+    "options": [
+      "Yog'",
+      "Shakar",
+      "Kumush",
+      "Quyosh"
+    ],
+    "answer": "Shakar"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Harorat qanday asbobda o‘lchanadi?",
+      "ru": "Чем измеряют температуру?",
+      "en": "What measures temperature?"
+    },
+    "options": [
+      "Barometr",
+      "Termometr",
+      "Manometr",
+      "Ammeter"
+    ],
+    "answer": "Termometr"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Yer sayyorasining tabiiy yo‘ldoshi qanday?",
+      "ru": "Как называется естественный спутник Земли?",
+      "en": "What is Earth's natural satellite?"
+    },
+    "options": [
+      "Mars",
+      "Oy",
+      "Venera",
+      "Yulduz"
+    ],
+    "answer": "Oy"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Tovush qanday muhitda eng yaxshi tarqaladi?",
+      "ru": "В какой среде звук распространяется лучше всего?",
+      "en": "In which medium does sound travel best?"
+    },
+    "options": [
+      "Vakuum",
+      "Havo",
+      "Suv",
+      "Qattiq jism"
+    ],
+    "answer": "Qattiq jism"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Atomning musbat zaryadlangan qismi qanday?",
+      "ru": "Какая часть атома имеет положительный заряд?",
+      "en": "Which atomic part has positive charge?"
+    },
+    "options": [
+      "Elektron",
+      "Proton",
+      "Neytron",
+      "Yadro"
+    ],
+    "answer": "Proton"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Qaysi rang eng katta to‘lqin uzunligiga ega?",
+      "ru": "Какой цвет имеет наибольшую длину волны?",
+      "en": "Which color has longest wavelength?"
+    },
+    "options": [
+      "Qizil",
+      "Sariq",
+      "Ko‘k",
+      "Binafsha"
+    ],
+    "answer": "Qizil"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Magnitning qutblari qanday nomlanadi?",
+      "ru": "Как называются полюса магнита?",
+      "en": "What are magnetic poles called?"
+    },
+    "options": [
+      "Sharq/G‘arb",
+      "Shimol/Janub",
+      "Yuqori/Past",
+      "Ichki/Tashqi"
+    ],
+    "answer": "Shimol/Janub"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Issiqlik uzatishning qanday usullari mavjud?",
+      "ru": "Какие существуют способы передачи тепла?",
+      "en": "Heat transfer methods?"
+    },
+    "options": [
+      "O‘tkazuvchanlik, konvektsiya, nurlanish",
+      "Aylanish, siljish, tarqalish",
+      "Qaynatish, eritish, muzlatish",
+      "Siqish, cho‘zish, burish"
+    ],
+    "answer": "O‘tkazuvchanlik, konvektsiya, nurlanish"
+  },
+  {
+    "category": "♾️ Fizika",
+    "question": {
+      "uz": "Suvning qaynash harorati qanday?",
+      "ru": "Какая температура кипения воды?",
+      "en": "Water boiling temperature?"
+    },
+    "options": [
+      "50°C",
+      "75°C",
+      "100°C",
+      "120°C"
+    ],
+    "answer": "100°C"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'Book' so‘zining tarjimasi qanday?",
+      "ru": "Как переводится слово 'Book'?",
+      "en": "Translation of 'Book'?"
+    },
+    "options": [
+      "Daftar",
+      "Kitob",
+      "Qalam",
+      "Jurnal"
+    ],
+    "answer": "Kitob"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'I am going to school' jumlasi qanday bo‘ladi?",
+      "ru": "Как будет предложение 'I am going to school'?",
+      "en": "How to say 'I am going to school'?"
+    },
+    "options": [
+      "Men maktabga boraman",
+      "Men maktabda edim",
+      "Men maktabga borayotirman",
+      "Men maktabga borgan edim"
+    ],
+    "answer": "Men maktabga borayotirman"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'Cat' so‘zining ko‘plik shakli qanday?",
+      "ru": "Как форма множественного числа слова 'Cat'?",
+      "en": "Plural form of 'Cat'?"
+    },
+    "options": [
+      "Cat",
+      "Cats",
+      "Cates",
+      "Caties"
+    ],
+    "answer": "Cats"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "Qaysi gap to‘g‘ri: 'She have' yoki 'She has'?",
+      "ru": "Какое предложение правильное: 'She have' или 'She has'?",
+      "en": "Which is correct: 'She have' or 'She has'?"
+    },
+    "options": [
+      "She have",
+      "She has",
+      "Ikkalasi ham",
+      "Hech biri"
+    ],
+    "answer": "She has"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'Big' so‘zining antonimi qanday?",
+      "ru": "Какой антоним слова 'Big'?",
+      "en": "Antonym of 'Big'?"
+    },
+    "options": [
+      "Larger",
+      "Small",
+      "Fast",
+      "Bright"
+    ],
+    "answer": "Small"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'The' qo‘llanmasi qachon ishlatiladi?",
+      "ru": "Когда используется артикль 'The'?",
+      "en": "When to use article 'The'?"
+    },
+    "options": [
+      " Har doim",
+      "Ma'lum bir narsa haqida",
+      "Hech qachon",
+      "Faqat ko‘plikda"
+    ],
+    "answer": "Ma'lum bir narsa haqida"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'I ___ a student' bo‘sh joyni to‘ldiring",
+      "ru": "Заполните пропуск: 'I ___ a student'",
+      "en": "Fill blank: 'I ___ a student'"
+    },
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answer": "am"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'Run' fe'lining hozirgi zamon shakli qanday?",
+      "ru": "Как форма настоящего времени глагола 'Run'?",
+      "en": "Present tense of 'Run'?"
+    },
+    "options": [
+      "Run",
+      "Runs",
+      "Running",
+      "Ran"
+    ],
+    "answer": "Runs"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "'What is your name?' ga javob qanday bo‘ladi?",
+      "ru": "Как ответить на 'What is your name?'?",
+      "en": "Response to 'What is your name?'?"
+    },
+    "options": [
+      "I am 20 years old",
+      "My name is Ali",
+      "I live in Tashkent",
+      "Yes, I do"
+    ],
+    "answer": "My name is Ali"
+  },
+  {
+    "category": "🇺🇸 English",
+    "question": {
+      "uz": "Qaysi gap savol shaklida?",
+      "ru": "Какое предложение является вопросом?",
+      "en": "Which sentence is a question?"
+    },
+    "options": [
+      "You are student",
+      "Are you student?",
+      "He is student",
+      "They are students"
+    ],
+    "answer": "Are you student?"
+  }
+]
